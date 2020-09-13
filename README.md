@@ -1,4 +1,4 @@
-# Gif expert app
+# React Gif Expert App
 React application for watch gifs from giphy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

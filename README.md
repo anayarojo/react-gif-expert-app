@@ -1,2 +1,2 @@
-# gif-expert-app
+# Gif expert app
 React application for watch gifs from giphy

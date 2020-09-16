@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for <GifCategoryItem /> Should show <GifCategoryItem /> successfully 1`] = `
+<div
+  className="card animate__animated animate__fadeIn animate__slower"
+>
+  <img
+    alt="Title"
+    src="https://localhost/something.jpg"
+  />
+  <p
+    className="mb-5"
+  >
+    Title
+  </p>
+</div>
+`;

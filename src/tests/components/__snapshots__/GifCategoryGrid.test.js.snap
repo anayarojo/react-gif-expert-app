@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for <GifCategoryGrid /> Should show <GifCategoryGrid /> successfully 1`] = `
+<Fragment>
+  <h3>
+    One Punch Man
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;

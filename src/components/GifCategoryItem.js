@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 
-export const GifCategoryItem = ({ id, title, url }) => {
+export const GifCategoryItem = ({ title, url }) => {
     return (
         <div className="card animate__animated animate__fadeIn animate__slower">
             <img src={ url } alt={title} />
@@ -12,7 +12,6 @@ export const GifCategoryItem = ({ id, title, url }) => {
 }
 
 GifCategoryItem.propTypes = {
-    id: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
     url: PropTypes.string.isRequired,
 };
